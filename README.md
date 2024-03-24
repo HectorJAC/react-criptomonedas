@@ -2,7 +2,7 @@
 
 ## Proyecto Criptomonedas - Seccion 8  
 
-Curso de React, Proyecto Control de Gastos.  
+Curso de React, Proyecto Criptomonedas.  
 
 **Instalacion**  
 npm install  
